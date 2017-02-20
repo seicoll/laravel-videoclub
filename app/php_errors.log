@@ -1,0 +1,27 @@
+[19-Jan-2017 10:48:16 UTC] PHP Parse error:  syntax error, unexpected '->' (T_OBJECT_OPERATOR) in /home/ubuntu/workspace/app/storage/framework/views/52a6a2c7203989d44d7e69d6811c3544a6e9efc2.php on line 32
+[27-Jan-2017 09:38:50 UTC] PHP Parse error:  syntax error, unexpected ''title'' (T_CONSTANT_ENCAPSED_STRING), expecting identifier (T_STRING) or variable (T_VARIABLE) or '{' or '$' in /home/ubuntu/workspace/app/storage/framework/views/7526eca8a742a9806aa41714ed99205b6e14a879.php on line 11
+[27-Jan-2017 09:38:56 UTC] PHP Parse error:  syntax error, unexpected ''title'' (T_CONSTANT_ENCAPSED_STRING), expecting identifier (T_STRING) or variable (T_VARIABLE) or '{' or '$' in /home/ubuntu/workspace/app/storage/framework/views/7526eca8a742a9806aa41714ed99205b6e14a879.php on line 11
+[27-Jan-2017 11:50:31 UTC] PHP Parse error:  syntax error, unexpected ']' in /home/ubuntu/workspace/app/storage/framework/views/52a6a2c7203989d44d7e69d6811c3544a6e9efc2.php on line 10
+[27-Jan-2017 11:51:19 UTC] PHP Parse error:  syntax error, unexpected ']' in /home/ubuntu/workspace/app/storage/framework/views/52a6a2c7203989d44d7e69d6811c3544a6e9efc2.php on line 10
+[27-Jan-2017 11:51:27 UTC] PHP Parse error:  syntax error, unexpected ']' in /home/ubuntu/workspace/app/storage/framework/views/52a6a2c7203989d44d7e69d6811c3544a6e9efc2.php on line 10
+[27-Jan-2017 11:58:31 UTC] PHP Parse error:  syntax error, unexpected ']' in /home/ubuntu/workspace/app/storage/framework/views/52a6a2c7203989d44d7e69d6811c3544a6e9efc2.php on line 10
+[27-Jan-2017 12:00:33 UTC] PHP Parse error:  syntax error, unexpected ']' in /home/ubuntu/workspace/app/storage/framework/views/52a6a2c7203989d44d7e69d6811c3544a6e9efc2.php on line 10
+[01-Feb-2017 22:17:13 UTC] PHP Fatal error:  Class 'App\Http\Controllers\Auth' not found in /home/ubuntu/workspace/app/app/Http/Controllers/HomeController.php on line 31
+[09-Feb-2017 15:58:19 UTC] PHP Parse error:  syntax error, unexpected '->' (T_OBJECT_OPERATOR), expecting identifier (T_STRING) or variable (T_VARIABLE) or '{' or '$' in /home/ubuntu/workspace/app/storage/framework/views/9f6dd77c77165af4a252b307863512c98382fac2.php on line 70
+[09-Feb-2017 16:58:50 UTC] PHP Fatal error:  Class 'App\Http\Controllers\Auth' not found in /home/ubuntu/workspace/app/app/Http/Controllers/ReviewController.php on line 20
+[09-Feb-2017 16:59:10 UTC] PHP Fatal error:  Class 'App\Http\Controllers\App\Auth' not found in /home/ubuntu/workspace/app/app/Http/Controllers/ReviewController.php on line 20
+[09-Feb-2017 17:00:04 UTC] PHP Fatal error:  Class 'App\Http\Controllers\Notification' not found in /home/ubuntu/workspace/app/app/Http/Controllers/ReviewController.php on line 24
+[09-Feb-2017 17:52:25 UTC] PHP Parse error:  syntax error, unexpected ':', expecting '(' in /home/ubuntu/workspace/app/storage/framework/views/9f6dd77c77165af4a252b307863512c98382fac2.php on line 26
+[09-Feb-2017 17:52:43 UTC] PHP Parse error:  syntax error, unexpected ':', expecting '(' in /home/ubuntu/workspace/app/storage/framework/views/9f6dd77c77165af4a252b307863512c98382fac2.php on line 28
+[09-Feb-2017 17:53:09 UTC] PHP Parse error:  syntax error, unexpected ':', expecting '(' in /home/ubuntu/workspace/app/storage/framework/views/9f6dd77c77165af4a252b307863512c98382fac2.php on line 28
+[09-Feb-2017 18:19:48 UTC] PHP Parse error:  syntax error, unexpected ':', expecting '(' in /home/ubuntu/workspace/app/storage/framework/views/9f6dd77c77165af4a252b307863512c98382fac2.php on line 25
+[09-Feb-2017 18:51:03 UTC] PHP Fatal error:  Call to a member function count() on null in /home/ubuntu/workspace/app/app/Http/Controllers/CatalogController.php on line 79
+[17-Feb-2017 12:09:51 UTC] PHP Parse error:  syntax error, unexpected '}' in /home/ubuntu/workspace/app/storage/framework/views/a78a9edee45f2d22b080a3d9be4d6c8d09a75a31.php on line 35
+[18-Feb-2017 03:49:01 UTC] PHP Fatal error:  Class 'DebugBar\StandardDebugBar' not found in /home/ubuntu/workspace/app/storage/framework/views/a13585d5f93beffe4026a6142284780d4ac879cb.php on line 4
+[18-Feb-2017 03:50:23 UTC] PHP Fatal error:  Class 'DebugBar\StandardDebugBar' not found in /home/ubuntu/workspace/app/storage/framework/views/a13585d5f93beffe4026a6142284780d4ac879cb.php on line 4
+[18-Feb-2017 03:52:08 UTC] PHP Fatal error:  Class 'Barryvdh\Debugbar\ServiceProvider' not found in /home/ubuntu/workspace/app/vendor/laravel/framework/src/Illuminate/Foundation/ProviderRepository.php on line 146
+[18-Feb-2017 03:56:28 UTC] PHP Fatal error:  Class 'Barryvdh\Debugbar\ServiceProvider' not found in /home/ubuntu/workspace/app/vendor/laravel/framework/src/Illuminate/Foundation/ProviderRepository.php on line 146
+[18-Feb-2017 03:57:36 UTC] PHP Fatal error:  Class 'Barryvdh\Debugbar\ServiceProvider' not found in /home/ubuntu/workspace/app/vendor/laravel/framework/src/Illuminate/Foundation/ProviderRepository.php on line 146
+[20-Feb-2017 22:39:36 UTC] PHP Fatal error:  Class 'App\Http\Controllers\Review' not found in /home/ubuntu/workspace/app/app/Http/Controllers/ChapterController.php on line 15
+[20-Feb-2017 22:40:17 UTC] PHP Fatal error:  Class 'App\Http\Controllers\Review' not found in /home/ubuntu/workspace/app/app/Http/Controllers/ChapterController.php on line 15
+[20-Feb-2017 22:41:27 UTC] PHP Fatal error:  Class 'App\Http\Controllers\Review' not found in /home/ubuntu/workspace/app/app/Http/Controllers/ChapterController.php on line 15
